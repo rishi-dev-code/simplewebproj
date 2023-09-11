@@ -2,7 +2,7 @@
   <body>
     <h2>Hello World!</h2>
 
-    <a href="about.jsp">About Page!</a>
+    <a href="about.jsp">About Page AWS!</a>
     <br />
     <a href="services.jsp">Services Page!</a>
     <br />
