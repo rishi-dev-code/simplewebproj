@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h2>Hello World!</h2>
+    <h2>Hello World from Jenkisn File !</h2>
 
     <a href="about.jsp">About Page AWS with elastic IP !</a>
     <br />
